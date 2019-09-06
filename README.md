@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Bhop Script 👋</h1>
+<h1 align="center">Welcome to <img  alt="Logo" src=https://raw.githubusercontent.com/ChinadaCam/Bhop-Script/master/ICON/Bhop.ico width="75" height="75" />hop Script   </h1> 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/ChinadaCam/Bhop-Script/blob/master/README.md">
